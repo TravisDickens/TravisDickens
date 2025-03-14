@@ -14,3 +14,9 @@ _<h4 align="center">🚀 "Code with passion, build with purpose."</h4>_
   <a href="mailto:Travis.Dickens@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+## 🌟 About Me  
+💡 **Passionate about solving complex problems & building scalable applications**  
+🛠️ **Full-Stack Developer passionate about creating efficient and scalable applications.**  
+🌐 **Thrive in Agile environments & always learning new technologies.**  
+🎯 **Future Goals:** Master `AI, DevOps, and Enterprise software.`  
+⚡ **Fun Fact:** My code compiles faster than my morning coffee brews. ☕💻  
