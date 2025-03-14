@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey, I'm Travis Dickens! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 <h3 align="center">Passionate Software Developer | Full-Stack Engineer | Tech Innovator</h3>
