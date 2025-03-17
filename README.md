@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
-<h3 align="center">Passionate Software Developer | Full-Stack Engineer | Tech Innovator</h3>
+<h3 align="center">Passionate Software Developer | Full-Stack Engineer | Technology Enthusiast</h3>
 
 _<h4 align="center">🚀 "Code with passion, build with purpose."</h4>_
 
@@ -15,8 +15,8 @@ _<h4 align="center">🚀 "Code with passion, build with purpose."</h4>_
 </p>
 
 ## 🌟 About Me  
-💡 **Passionate about solving complex problems & building scalable applications**  
-🛠️ **Full-Stack Developer passionate about creating efficient and scalable applications.**  
-🌐 **Thrive in Agile environments & always learning new technologies.**  
-🎯 **Future Goals:** Master `AI, DevOps, and Enterprise software.`  
+💡 **Passionate about solving complex problems.**  
+🛠️ **Software Developer passionate about creating efficient and scalable applications.**  
+🌐 **I Thrive in Agile environments and always open to learning new technologies.**  
+🎯 **Future Goals:** Master `System Design, DevOps, and Enterprise Software Systems.`  
 ⚡ **Fun Fact:** My code compiles faster than my morning coffee brews. ☕💻  
