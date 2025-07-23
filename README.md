@@ -15,7 +15,7 @@ _<h4 align="center">🚀 "Code with passion, build with purpose."</h4>_
 </p>
 
 ## 🌟 About Me  
-💡 **Passionate about solving complex problems.**  
+💡 **Passionate about solving problems.**  
 🛠️ **Software Developer passionate about creating efficient and scalable applications.**  
 🌐 **I Thrive in Agile environments and always open to learning new technologies.**  
 🎯 **Future Goals:** Master `System Design, Microservices, and Enterprise Software Systems.`  
